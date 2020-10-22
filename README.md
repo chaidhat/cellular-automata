@@ -1,5 +1,9 @@
 # Cellular-Automata
 3-Dimensional Cellular Automata à la Conway's Game of Life\
+Rendered using [Blender](https://www.blender.org/)\
+Project inspired by [Softology](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)\
+\
+All coding & simulation & art by Chaidhat Chaimongkol\
 Licensed under GNU GPL 3.0. Created by Chaidhat Chaimongkol
 
 ### Rule - 4/4/5
