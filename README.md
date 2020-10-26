@@ -1,4 +1,6 @@
 # Cellular-Automata
+
+## [.c Generator available online - try it out!](https://repl.it/@ChaiTea/3D-Cellular-Automata#main.c)
 3-Dimensional Cellular Automata à la Conway's Game of Life\
 Rendered using [Blender](https://www.blender.org/)\
 Project inspired by [Softology](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)\
